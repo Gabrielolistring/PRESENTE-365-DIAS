@@ -1,11 +1,4 @@
 
-Criei esta Landing page para presentear minha namorada em nosso primeiro 1 ano de namoro. O site mostra o começo de nosso relacionamento com nossas primeiras interações. No navbar 
-tem uma pagina na qual nos leva para uma "galeria" de fotos nas quais fomos acrescentando aos poucos.
-
-
-
-
-
 Bootstrap
 http://getbootstrap.com/
 
